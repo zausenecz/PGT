@@ -1,6 +1,7 @@
 :root {
     --primary: #f2f1ef;
     --secondary: #232222;
+    --secondary: #ff0000;
     --accent: #9c2327;
 }
 
@@ -27,7 +28,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 100vh;
+    height: 100svh;
     box-sizing: border-box;
     padding: 2rem 1rem;
 }
